@@ -1,0 +1,572 @@
+School,Grad Rate,Retain Rate,Accept Rate,ENROLLMENT,INSTITUTIONALAID,DEFAULT,Ratio
+Harvard University, 0.98 , 0.98 , 0.06 , 0.04 , 0.44 , N/A ,7
+Yale University, 0.97 , 0.99 , 0.07 , 0.05 , 0.52 , N/A ,6
+University of Pennsylvania, 0.95 , 0.98 , 0.10 , 0.07 , 0.54 , N/A ,6
+Johns Hopkins University, 0.94 , 0.97 , 0.14 , 0.05 , 0.51 , N/A ,10
+Cornell University, 0.93 , 0.97 , 0.15 , 0.08 , 0.55 , N/A ,9
+Tufts University, 0.93 , 0.97 , 0.16 , 0.07 , 0.43 , N/A ,9
+University of California-Berkeley, 0.92 , 0.96 , 0.17 , 0.07 , 0.61 , N/A ,17
+University of California-Los Angeles, 0.91 , 0.96 , 0.17 , 0.06 , 0.61 , N/A ,16
+Georgetown University, 0.94 , 0.96 , 0.17 , 0.08 , 0.42 , N/A ,11
+Washington University in St Louis, 0.93 , 0.96 , 0.17 , 0.06 , 0.49 , N/A ,8
+University of Notre Dame, 0.97 , 0.98 , 0.20 , 0.11 , 0.63 , N/A ,10
+Liberty University, 0.47 , 0.75 , 0.22 , 0.10 , 0.84 , N/A ,18
+Emory University, 0.89 , 0.94 , 0.24 , 0.07 , 0.54 , N/A ,8
+New Mexico Institute of Mining and Technology, 0.49 , 0.75 , 0.24 , 0.21 , 0.73 , 0.06 ,12
+Piedmont International University, 0.41 , 0.74 , 0.24 , 0.19 , 0.68 , N/A ,7
+Carnegie Mellon University, 0.88 , 0.98 , 0.24 , 0.08 , 0.54 , N/A ,10
+California Institute of the Arts, 0.56 , 0.87 , 0.25 , 0.09 , 0.55 , 0.08 ,7
+Maine College of Health Professions, 1.00 , 1.00 , 0.25 , 0.25 , 0.59 , N/A ,5
+Babson College, 0.89 , 0.96 , 0.26 , 0.07 , 0.48 , N/A ,14
+University of Michigan-Ann Arbor, 0.90 , 0.97 , 0.26 , 0.12 , 0.51 , N/A ,12
+Northeastern University, 0.84 , 0.97 , 0.28 , 0.06 , 0.65 , N/A ,14
+Southwestern Assemblies of God University, 0.41 , 0.74 , 0.28 , 0.20 , 0.87 , N/A ,14
+Berklee College of Music, 0.56 , 0.87 , 0.29 , 0.12 , 0.53 , 0.12 ,11
+Boston College, 0.92 , 0.95 , 0.29 , 0.07 , 0.45 , 0.02 ,14
+Wake Forest University, 0.88 , 0.93 , 0.29 , 0.10 , 0.50 , N/A ,10
+Tulane University of Louisiana, 0.83 , 0.92 , 0.30 , 0.07 , 0.70 , N/A ,9
+Lehigh University, 0.88 , 0.95 , 0.30 , 0.10 , 0.51 , N/A ,10
+University of Virginia-Main Campus, 0.93 , 0.97 , 0.30 , 0.12 , 0.40 , N/A ,15
+California Polytechnic State University-San Luis Obispo, 0.76 , 0.93 , 0.31 , 0.11 , 0.55 , 0.03 ,22
+University of North Carolina at Chapel Hill, 0.90 , 0.97 , 0.31 , 0.13 , 0.53 , N/A ,14
+Corban University, 0.59 , 0.80 , 0.31 , 0.09 , 0.94 , N/A ,15
+University of Richmond, 0.88 , 0.93 , 0.31 , 0.08 , 0.69 , N/A ,8
+Georgia Institute of Technology-Main Campus, 0.85 , 0.97 , 0.32 , 0.11 , 0.63 , N/A ,19
+CUNY Bernard M Baruch College, 0.70 , 0.91 , 0.32 , 0.07 , 0.56 , 0.05 ,17
+New York University, 0.84 , 0.93 , 0.32 , 0.10 , 0.57 , N/A ,10
+University of California-Santa Barbara, 0.81 , 0.93 , 0.33 , 0.06 , 0.66 , N/A ,17
+Boston University, 0.85 , 0.93 , 0.33 , 0.07 , 0.49 , N/A ,12
+California State University-Long Beach, 0.67 , 0.89 , 0.34 , 0.08 , 0.72 , 0.05 ,24
+Hope International University, 0.42 , 0.91 , 0.34 , 0.12 , 0.82 , N/A ,14
+San Diego State University, 0.68 , 0.89 , 0.34 , 0.09 , 0.59 , N/A ,28
+Brandeis University, 0.86 , 0.92 , 0.34 , 0.08 , 0.58 , N/A ,10
+Nebraska Methodist College of Nursing & Allied Health, 0.73 , 0.81 , 0.34 , 0.19 , 0.72 , N/A ,12
+University of Rochester, 0.88 , 0.96 , 0.34 , 0.08 , 0.78 , N/A ,10
+Columbia International University, 0.62 , 0.73 , 0.34 , 0.17 , 0.91 , N/A ,14
+College of William and Mary, 0.90 , 0.95 , 0.34 , 0.10 , 0.44 , N/A ,12
+American University, 0.81 , 0.88 , 0.35 , 0.11 , 0.63 , 0.04 ,12
+Emmaus Bible College, 0.75 , 0.83 , 0.35 , 0.14 , 0.95 , N/A ,9
+Skidmore College, 0.86 , 0.94 , 0.36 , 0.08 , 0.48 , N/A ,8
+Laguna College of Art and Design, 0.66 , 0.84 , 0.37 , 0.21 , 1.00 , 0.06 ,12
+Maharishi University of Management, 0.46 , 0.90 , 0.37 , 0.25 , 0.68 , N/A ,11
+CUNY Brooklyn College, 0.54 , 0.82 , 0.37 , 0.07 , 0.60 , 0.07 ,15
+University of California-Davis, 0.85 , 0.93 , 0.38 , 0.08 , 0.72 , N/A ,18
+Colorado School of Mines, 0.77 , 0.94 , 0.38 , 0.09 , 0.68 , 0.03 ,16
+University of Miami, 0.82 , 0.92 , 0.38 , 0.06 , 0.70 , N/A ,12
+California State Polytechnic University-Pomona, 0.63 , 0.89 , 0.39 , 0.08 , 0.67 , 0.05 ,27
+University of California-Irvine, 0.88 , 0.93 , 0.39 , 0.08 , 0.73 , N/A ,19
+Andrews University, 0.54 , 0.80 , 0.39 , 0.12 , 0.84 , 0.07 ,9
+CUNY Hunter College, 0.54 , 0.83 , 0.39 , 0.08 , 0.56 , 0.05 ,11
+The University of Texas at Austin, 0.80 , 0.95 , 0.39 , 0.18 , 0.45 , N/A ,18
+Park University, 0.43 , 0.59 , 0.40 , 0.11 , 0.37 , 0.10 ,17
+CUNY Queens College, 0.58 , 0.85 , 0.40 , 0.08 , 0.53 , 0.05 ,14
+Western Carolina University, 0.57 , 0.80 , 0.40 , 0.09 , 0.65 , N/A ,16
+University of Memphis, 0.45 , 0.77 , 0.40 , 0.13 , 0.76 , N/A ,14
+Spring Hill College, 0.53 , 0.81 , 0.41 , 0.06 , 0.99 , 0.08 ,14
+Fashion Institute of Technology, 0.75 , 0.90 , 0.41 , 0.27 , 0.41 , 0.07 ,17
+Stony Brook University, 0.68 , 0.90 , 0.41 , 0.08 , 0.57 , N/A ,17
+SUNY at Purchase College, 0.58 , 0.81 , 0.41 , 0.10 , 0.59 , 0.07 ,15
+California State University-Fullerton, 0.62 , 0.88 , 0.42 , 0.11 , 0.65 , 0.06 ,25
+The University of West Florida, 0.47 , 0.72 , 0.42 , 0.19 , 0.63 , N/A ,22
+New York School of Interior Design, 0.50 , 0.80 , 0.42 , 0.08 , 0.29 , N/A ,10
+SUNY at Binghamton, 0.81 , 0.91 , 0.42 , 0.09 , 0.51 , N/A ,20
+State University of New York at New Paltz, 0.73 , 0.89 , 0.42 , 0.07 , 0.53 , N/A ,15
+Dallas Baptist University, 0.58 , 0.72 , 0.42 , 0.17 , 0.86 , 0.08 ,13
+Texas Christian University, 0.76 , 0.90 , 0.43 , 0.11 , 0.66 , N/A ,13
+Stevens Institute of Technology, 0.82 , 0.94 , 0.44 , 0.10 , 0.92 , N/A ,10
+King University, 0.45 , 0.73 , 0.44 , 0.17 , 0.71 , 0.08 ,16
+Florida Southern College, 0.57 , 0.80 , 0.45 , 0.11 , 0.93 , 0.10 ,13
+University of South Florida-Main Campus, 0.68 , 0.88 , 0.45 , 0.14 , 0.72 , N/A ,24
+Toccoa Falls College, 0.47 , 0.66 , 0.45 , 0.20 , 0.93 , N/A ,13
+University of Maryland-College Park, 0.86 , 0.95 , 0.45 , 0.14 , 0.52 , N/A ,17
+University of Minnesota-Twin Cities, 0.77 , 0.93 , 0.45 , 0.13 , 0.50 , N/A ,17
+Marist College, 0.78 , 0.91 , 0.45 , 0.13 , 0.75 , N/A ,16
+Monroe College, 0.53 , 0.78 , 0.45 , 0.28 , 0.92 , 0.10 ,18
+Wilson College, 0.39 , 0.73 , 0.45 , 0.10 , 0.71 , N/A ,10
+LeTourneau University, 0.57 , 0.69 , 0.45 , 0.14 , 0.66 , N/A ,12
+George Washington University, 0.83 , 0.94 , 0.46 , 0.13 , 0.64 , N/A ,13
+Southeastern University, 0.39 , 0.67 , 0.46 , 0.26 , 0.77 , 0.09 ,20
+Midway University, 0.56 , 0.78 , 0.46 , 0.18 , 0.86 , N/A ,15
+St Lawrence University, 0.87 , 0.89 , 0.46 , 0.12 , 0.93 , N/A ,11
+Bryan College-Dayton, 0.57 , 0.65 , 0.46 , 0.24 , 0.60 , 0.07 ,14
+Bristol University, 0.89 , 0.60 , 0.46 , 0.26 , 0.35 , 0.12 ,15
+University of La Verne, 0.64 , 0.85 , 0.47 , 0.09 , 0.73 , N/A ,17
+Pfeiffer University, 0.43 , 0.69 , 0.47 , 0.10 , 0.75 , 0.08 ,12
+Texas A & M University-Commerce, 0.42 , 0.73 , 0.47 , 0.15 , 0.73 , N/A ,20
+Chapman University, 0.79 , 0.90 , 0.48 , 0.10 , 0.79 , 0.04 ,14
+University of Florida, 0.87 , 0.96 , 0.48 , 0.24 , 0.88 , N/A ,20
+Graceland University-Lamoni, 0.52 , 0.62 , 0.48 , 0.13 , 0.82 , 0.09 ,16
+Fordham University, 0.81 , 0.91 , 0.48 , 0.05 , 0.80 , 0.05 ,14
+Syracuse University, 0.81 , 0.91 , 0.48 , 0.10 , 0.70 , N/A ,16
+Muhlenberg College, 0.85 , 0.93 , 0.48 , 0.12 , 0.82 , N/A ,11
+Villanova University, 0.90 , 0.96 , 0.48 , 0.10 , 0.50 , N/A ,12
+Brigham Young University-Provo, 0.80 , 0.86 , 0.48 , 0.38 , 0.71 , 0.01 ,20
+Fashion Institute of Design & Merchandising-Los Angeles, 0.70 , 0.92 , 0.49 , 0.33 , 0.39 , 0.10 ,20
+Howard University, 0.61 , 0.89 , 0.49 , 0.11 , 0.78 , 0.10 ,11
+University of Central Florida, 0.70 , 0.89 , 0.49 , 0.18 , 0.69 , N/A ,30
+Augustana College, 0.76 , 0.86 , 0.49 , 0.10 , 0.97 , 0.05 ,12
+North Park University, 0.52 , 0.75 , 0.49 , 0.09 , 0.89 , 0.08 ,11
+University of Saint Mary, 0.41 , 0.75 , 0.49 , 0.14 , 0.63 , N/A ,8
+Emerson College, 0.80 , 1.00 , 0.49 , 0.11 , 0.58 , N/A ,13
+Worcester Polytechnic Institute, 0.85 , 0.96 , 0.49 , 0.11 , 0.92 , N/A ,13
+William Jewell College, 0.62 , 0.82 , 0.49 , 0.17 , 0.94 , N/A ,10
+Ohio State University-Main Campus, 0.83 , 0.94 , 0.49 , 0.17 , 0.65 , N/A ,19
+Cumberland University, 0.45 , 0.70 , 0.49 , 0.29 , 0.87 , 0.11 ,16
+University of California-Santa Cruz, 0.78 , 0.88 , 0.50 , 0.08 , 0.74 , N/A ,18
+Florida International University, 0.58 , 0.88 , 0.50 , 0.20 , 0.69 , 0.10 ,25
+Concordia University-Chicago, 0.50 , 0.62 , 0.50 , 0.07 , 0.89 , 0.04 ,15
+Eastern Illinois University, 0.58 , 0.75 , 0.50 , 0.13 , 0.73 , 0.06 ,15
+Mount Holyoke College, 0.85 , 0.90 , 0.50 , 0.14 , 0.80 , N/A ,10
+Saint Elizabeth College of Nursing, 0.50 , 1.00 , 0.50 , 0.39 , 0.67 , 0.04 ,8
+SUNY College at Plattsburgh, 0.65 , 0.83 , 0.50 , 0.12 , 0.72 , N/A ,16
+North Carolina State University at Raleigh, 0.75 , 0.93 , 0.50 , 0.20 , 0.54 , N/A ,15
+Abilene Christian University, 0.61 , 0.79 , 0.50 , 0.10 , 0.94 , 0.09 ,15
+Loyola Marymount University, 0.79 , 0.91 , 0.51 , 0.10 , 0.78 , N/A ,11
+Warner University, 0.40 , 0.72 , 0.51 , 0.36 , 0.99 , N/A ,17
+University of St Francis, 0.65 , 0.76 , 0.51 , 0.13 , 0.86 , N/A ,11
+Belhaven University, 0.47 , 0.67 , 0.51 , 0.09 , 0.93 , 0.06 ,11
+Avila University, 0.55 , 0.74 , 0.51 , 0.10 , 0.78 , 0.09 ,10
+SUNY College at Cortland, 0.73 , 0.78 , 0.51 , 0.11 , 0.61 , N/A ,16
+SUNY College at Oswego, 0.66 , 0.80 , 0.51 , 0.14 , 0.76 , N/A ,17
+Concordia University-Portland, 0.48 , 0.74 , 0.51 , 0.08 , 1.00 , N/A ,17
+Pennsylvania State University-Main Campus, 0.86 , 0.93 , 0.51 , 0.14 , 0.68 , N/A ,16
+Clemson University, 0.81 , 0.93 , 0.51 , 0.15 , 0.71 , N/A ,18
+California State University-Fresno, 0.58 , 0.83 , 0.52 , 0.18 , 0.75 , 0.07 ,25
+Simpson University, 0.49 , 0.74 , 0.52 , 0.14 , 0.94 , 0.06 ,9
+The Baptist College of Florida, 0.51 , 0.76 , 0.52 , 0.29 , 0.97 , N/A ,11
+Notre Dame of Maryland University, 0.54 , 0.79 , 0.52 , 0.11 , 0.59 , 0.08 ,12
+Clarkson College, 0.71 , 0.71 , 0.52 , 0.39 , 0.60 , N/A ,13
+SUNY College of Environmental Science and Forestry, 0.75 , 0.85 , 0.52 , 0.20 , 0.76 , N/A ,16
+Eastern University, 0.61 , 0.74 , 0.52 , 0.13 , 0.88 , 0.08 ,10
+University of Charleston, 0.47 , 0.66 , 0.52 , 0.16 , 0.89 , 0.12 ,14
+University of Connecticut, 0.83 , 0.92 , 0.53 , 0.11 , 0.62 , N/A ,17
+University of Georgia, 0.85 , 0.95 , 0.53 , 0.24 , 0.82 , N/A ,18
+Illinois Institute of Technology, 0.73 , 0.87 , 0.53 , 0.11 , 0.89 , N/A ,13
+Crown College, 0.56 , 0.68 , 0.53 , 0.15 , 0.80 , 0.06 ,18
+Ramapo College of New Jersey, 0.74 , 0.86 , 0.53 , 0.13 , 0.43 , N/A ,17
+SUNY College at Brockport, 0.69 , 0.82 , 0.53 , 0.12 , 0.61 , N/A ,16
+Gardner-Webb University, 0.52 , 0.73 , 0.53 , 0.12 , 0.58 , 0.10 ,13
+University of Washington-Seattle Campus, 0.84 , 0.94 , 0.53 , 0.18 , 0.43 , N/A ,20
+Pennsylvania College of Health Sciences, 0.68 , 1.00 , 0.53 , 0.37 , 0.42 , N/A ,11
+Grace College of Divinity, N/A , 0.83 , 0.53 , 0.50 , 0.24 , N/A ,6
+The University of Alabama, 0.67 , 0.86 , 0.54 , 0.20 , 0.57 , N/A ,24
+Jacksonville University, 0.41 , 0.68 , 0.54 , 0.12 , 0.68 , 0.10 ,14
+The Sage Colleges, 0.60 , 0.78 , 0.54 , 0.11 , 0.90 , N/A ,12
+SUNY College of Technology at Delhi, 0.43 , 0.75 , 0.54 , 0.16 , 0.65 , 0.13 ,16
+The Christ College of Nursing and Health Sciences, 0.69 , 0.83 , 0.54 , 0.29 , 0.68 , N/A ,10
+University of Pittsburgh-Pittsburgh Campus, 0.82 , 0.92 , 0.54 , 0.13 , 0.53 , N/A ,15
+California State University-San Marcos, 0.51 , 0.81 , 0.54 , 0.16 , 0.69 , 0.05 ,24
+San Jose State University, 0.57 , 0.86 , 0.55 , 0.11 , 0.64 , 0.05 ,27
+Berry College, 0.64 , 0.83 , 0.55 , 0.13 , 0.99 , 0.04 ,12
+Elmhurst College, 0.67 , 0.79 , 0.55 , 0.13 , 0.95 , 0.02 ,14
+Oakland City University, 0.63 , 0.71 , 0.55 , 0.10 , 0.24 , 0.10 ,12
+Lawrence Technological University, 0.56 , 0.81 , 0.55 , 0.16 , 0.51 , 0.07 ,12
+Concordia University-Saint Paul, 0.46 , 0.70 , 0.55 , 0.15 , 0.66 , 0.06 ,16
+Chatham University, 0.56 , 0.76 , 0.55 , 0.14 , 0.64 , 0.03 ,10
+Anderson University, 0.49 , 0.73 , 0.55 , 0.20 , 0.87 , 0.09 ,16
+Averett University-Non-Traditional Programs, 1.00 , N/A , 0.55 , 0.17 , 0.34 , 0.11 ,7
+University of California-Riverside, 0.73 , 0.91 , 0.56 , 0.11 , 0.84 , N/A ,19
+Florida State University, 0.79 , 0.93 , 0.56 , 0.20 , 0.81 , N/A ,25
+Northwest Nazarene University, 0.49 , 0.77 , 0.56 , 0.17 , 0.80 , N/A ,15
+Greenville College, 0.57 , 0.82 , 0.56 , 0.14 , 0.91 , N/A ,13
+Marian University, 0.56 , 0.80 , 0.56 , 0.15 , 0.66 , 0.06 ,13
+Morningside College, 0.55 , 0.74 , 0.56 , 0.08 , 0.96 , N/A ,13
+Webster University, 0.62 , 0.78 , 0.56 , 0.21 , 0.79 , N/A ,13
+SUNY at Albany, 0.68 , 0.82 , 0.56 , 0.12 , 0.60 , N/A ,18
+Temple University, 0.71 , 0.90 , 0.56 , 0.17 , 0.72 , N/A ,14
+University of Florida-Online, N/A , 0.88 , 0.56 , 0.51 , 0.55 , N/A ,35
+University of North Florida, 0.55 , 0.80 , 0.57 , 0.14 , 0.61 , 0.08 ,18
+University of West Georgia, 0.39 , 0.72 , 0.57 , 0.31 , 0.73 , 0.09 ,20
+Asbury University, 0.63 , 0.81 , 0.57 , 0.19 , 0.77 , 0.06 ,11
+University of Massachusetts-Lowell, 0.56 , 0.86 , 0.57 , 0.15 , 0.55 , N/A ,17
+William Carey University, 0.54 , 0.81 , 0.57 , 0.23 , 0.85 , N/A ,13
+Rivier University, 0.43 , 0.77 , 0.57 , 0.11 , 0.60 , N/A ,18
+Rochester Institute of Technology, 0.68 , 0.89 , 0.57 , 0.16 , 0.82 , N/A ,13
+SUNY College of Technology at Alfred, 0.50 , 0.88 , 0.57 , 0.22 , 0.80 , N/A ,18
+Elon University, 0.83 , 0.90 , 0.57 , 0.15 , 0.54 , 0.02 ,12
+Minot State University, 0.43 , 0.75 , 0.57 , 0.41 , 0.59 , N/A ,12
+Oregon Institute of Technology, 0.46 , 0.78 , 0.57 , 0.23 , 0.47 , N/A ,19
+Providence College, 0.85 , 0.90 , 0.57 , 0.10 , 0.71 , N/A ,12
+Norwich University, 0.56 , 0.74 , 0.57 , 0.18 , 0.93 , N/A ,12
+Rose-Hulman Institute of Technology, 0.77 , 0.93 , 0.58 , 0.13 , 0.95 , N/A ,13
+Friends University, 0.41 , 0.74 , 0.58 , 0.22 , 0.87 , 0.10 ,11
+University of Massachusetts-Amherst, 0.78 , 0.91 , 0.58 , 0.12 , 0.69 , N/A ,18
+Simmons College, 0.74 , 0.85 , 0.58 , 0.10 , 0.91 , N/A ,7
+Rutgers University-New Brunswick, 0.80 , 0.93 , 0.58 , 0.19 , 0.51 , N/A ,15
+University of Dayton, 0.79 , 0.91 , 0.58 , 0.13 , 0.86 , N/A ,16
+University of the Sciences, 0.72 , 0.90 , 0.58 , 0.09 , 0.84 , N/A ,10
+North Greenville University, 0.55 , 0.73 , 0.58 , 0.34 , 0.91 , 0.06 ,14
+Johnson University, 0.57 , 0.74 , 0.58 , 0.42 , 0.89 , N/A ,14
+University of Wisconsin-Madison, 0.85 , 0.96 , 0.58 , 0.22 , 0.42 , N/A ,18
+Concordia University-Irvine, 0.61 , 0.72 , 0.59 , 0.11 , 0.81 , N/A ,15
+Sacred Heart University, 0.64 , 0.83 , 0.59 , 0.14 , 0.85 , N/A ,15
+Nova Southeastern University, 0.44 , 0.80 , 0.59 , 0.15 , 0.83 , N/A ,16
+Saint Mary-of-the-Woods College, 0.50 , 0.74 , 0.59 , 0.26 , 0.83 , N/A ,6
+University of Maryland-Baltimore County, 0.63 , 0.86 , 0.59 , 0.15 , 0.51 , N/A ,19
+Augsburg College, 0.56 , 0.79 , 0.59 , 0.16 , 0.82 , 0.05 ,12
+Cox College, 0.99 , 1.00 , 0.59 , 0.22 , 0.60 , N/A ,9
+Grace University, 0.46 , 0.93 , 0.59 , 0.32 , 0.86 , 0.05 ,12
+University of North Carolina at Greensboro, 0.56 , 0.77 , 0.59 , 0.26 , 0.55 , N/A ,17
+Oklahoma Christian University, 0.49 , 0.79 , 0.59 , 0.17 , 0.96 , 0.08 ,13
+Multnomah University, 0.55 , 0.70 , 0.59 , 0.29 , 0.90 , 0.03 ,13
+Arcadia University, 0.58 , 0.79 , 0.59 , 0.06 , 0.94 , 0.06 ,10
+West Chester University of Pennsylvania, 0.71 , 0.88 , 0.59 , 0.19 , 0.43 , N/A ,19
+Purdue University-Main Campus, 0.75 , 0.92 , 0.59 , 0.15 , 0.51 , N/A ,12
+University of Alabama at Birmingham, 0.55 , 0.79 , 0.60 , 0.21 , 0.58 , N/A ,18
+University of Arkansas, 0.62 , 0.82 , 0.60 , 0.24 , 0.58 , N/A ,19
+Georgia Southern University, 0.50 , 0.82 , 0.60 , 0.35 , 0.67 , 0.09 ,21
+Lincoln Christian University, 0.61 , 0.67 , 0.60 , 0.36 , 0.84 , 0.08 ,13
+Anderson University, 0.54 , 0.75 , 0.60 , 0.16 , 0.89 , 0.05 ,11
+Stevenson University, 0.53 , 0.80 , 0.60 , 0.13 , 0.81 , N/A ,14
+Madonna University, 0.61 , 0.82 , 0.60 , 0.19 , 0.62 , N/A ,10
+University of Minnesota-Morris, 0.65 , 0.77 , 0.60 , 0.11 , 0.74 , 0.06 ,12
+University at Buffalo, 0.74 , 0.88 , 0.60 , 0.15 , 0.55 , N/A ,13
+SUNY Polytechnic Institute, 0.49 , 0.74 , 0.60 , 0.15 , 0.69 , N/A ,17
+Baldwin Wallace University, 0.67 , 0.83 , 0.60 , 0.18 , 0.84 , 0.03 ,13
+Ball State University, 0.60 , 0.82 , 0.61 , 0.16 , 0.65 , 0.07 ,14
+Mount Mercy University, 0.65 , 0.78 , 0.61 , 0.21 , 0.86 , 0.04 ,14
+MidAmerica Nazarene University, 0.55 , 0.74 , 0.61 , 0.21 , 0.85 , 0.07 ,7
+Loyola University Maryland, 0.81 , 0.86 , 0.61 , 0.07 , 0.70 , N/A ,11
+Salisbury University, 0.67 , 0.82 , 0.61 , 0.14 , 0.56 , 0.05 ,16
+The College of Saint Scholastica, 0.70 , 0.84 , 0.61 , 0.12 , 0.82 , N/A ,15
+Evangel University, 0.54 , 0.71 , 0.61 , 0.24 , 0.95 , 0.07 ,14
+University of North Carolina Wilmington, 0.71 , 0.85 , 0.61 , 0.18 , 0.53 , N/A ,17
+Summit University of Pennsylvania, 0.59 , 0.74 , 0.61 , 0.32 , 0.74 , N/A ,11
+Lipscomb University, 0.55 , 0.84 , 0.61 , 0.20 , 0.73 , 0.05 ,12
+The University of Texas at Dallas, 0.66 , 0.84 , 0.61 , 0.24 , 0.65 , 0.07 ,23
+Wheeling Jesuit University, 0.54 , 0.72 , 0.61 , 0.15 , 0.79 , N/A ,11
+University of California-Merced, 0.66 , 0.84 , 0.61 , 0.09 , 0.88 , N/A ,18
+California Lutheran University, 0.66 , 0.84 , 0.62 , 0.09 , 0.87 , 0.03 ,15
+Agnes Scott College, 0.68 , 0.87 , 0.62 , 0.19 , 0.95 , 0.07 ,9
+Illinois Wesleyan University, 0.83 , 0.93 , 0.62 , 0.12 , 0.99 , 0.03 ,11
+Lewis University, 0.66 , 0.84 , 0.62 , 0.12 , 0.81 , N/A ,13
+University of Michigan-Dearborn, 0.53 , 0.80 , 0.62 , 0.18 , 0.63 , N/A ,15
+Winona State University, 0.58 , 0.81 , 0.62 , 0.24 , 0.54 , N/A ,20
+Daniel Webster College, 0.49 , 0.68 , 0.62 , 0.18 , 0.70 , 0.08 ,16
+Le Moyne College, 0.68 , 0.88 , 0.62 , 0.09 , 0.90 , 0.06 ,13
+Saint John Fisher College, 0.72 , 0.86 , 0.62 , 0.12 , 0.96 , N/A ,12
+Salem College, 0.60 , 0.83 , 0.62 , 0.21 , 0.95 , 0.07 ,11
+Southern Wesleyan University, 0.50 , 0.69 , 0.62 , 0.22 , 0.80 , 0.12 ,18
+Presbyterian College, 0.70 , 0.81 , 0.62 , 0.13 , 0.89 , 0.04 ,11
+Eastern Mennonite University, 0.61 , 0.73 , 0.62 , 0.15 , 0.95 , 0.03 ,10
+Whitworth University, 0.75 , 0.95 , 0.62 , 0.13 , 0.94 , N/A ,11
+California State University-Chico, 0.64 , 0.84 , 0.63 , 0.12 , 0.63 , 0.07 ,25
+Whittier College, 0.66 , 0.80 , 0.63 , 0.09 , 0.94 , N/A ,12
+Stetson University, 0.64 , 0.77 , 0.63 , 0.09 , 0.98 , 0.05 ,13
+McKendree University, 0.56 , 0.71 , 0.63 , 0.19 , 0.75 , 0.09 ,14
+Dominican University, 0.59 , 0.79 , 0.63 , 0.12 , 0.90 , 0.06 ,11
+University of Illinois at Springfield, 0.48 , 0.77 , 0.63 , 0.18 , 0.65 , N/A ,14
+Frostburg State University, 0.51 , 0.76 , 0.63 , 0.24 , 0.56 , 0.10 ,16
+Saint Louis University, 0.71 , 0.90 , 0.63 , 0.12 , 0.54 , N/A ,11
+College of Saint Elizabeth, 0.49 , 0.71 , 0.63 , 0.13 , 0.66 , 0.08 ,10
+University of North Carolina at Charlotte, 0.53 , 0.83 , 0.63 , 0.21 , 0.52 , N/A ,19
+Pittsburgh Institute of Mortuary Science Inc, 0.61 , 0.85 , 0.63 , 0.63 , 0.23 , N/A ,12
+Texas Tech University, 0.60 , 0.83 , 0.63 , 0.22 , 0.52 , N/A ,22
+University of San Francisco, 0.71 , 0.83 , 0.64 , 0.08 , 0.61 , N/A ,14
+Central College, 0.67 , 0.78 , 0.64 , 0.10 , 0.94 , 0.04 ,12
+Faith Baptist Bible College and Theological Seminary, 0.66 , 0.80 , 0.64 , 0.50 , 0.90 , 0.03 ,11
+Louisiana Tech University, 0.52 , 0.80 , 0.64 , 0.31 , 0.72 , 0.08 ,23
+Caldwell University, 0.64 , 0.82 , 0.64 , 0.09 , 0.74 , 0.09 ,12
+Stockton University, 0.73 , 0.87 , 0.64 , 0.21 , 0.56 , N/A ,17
+Oral Roberts University, 0.58 , 0.80 , 0.64 , 0.18 , 0.87 , 0.10 ,16
+Philadelphia University, 0.65 , 0.82 , 0.64 , 0.13 , 0.88 , N/A ,13
+California Baptist University, 0.60 , 0.76 , 0.65 , 0.26 , 0.85 , 0.08 ,18
+Fairfield University, 0.82 , 0.89 , 0.65 , 0.09 , 0.75 , 0.01 ,12
+Mississippi State University, 0.60 , 0.82 , 0.65 , 0.28 , 0.78 , 0.08 ,19
+Cleveland Institute of Art, 0.68 , 0.83 , 0.65 , 0.23 , 0.97 , 0.05 ,9
+Miami University-Oxford, 0.80 , 0.90 , 0.65 , 0.14 , 0.63 , 0.11 ,15
+University of South Carolina-Columbia, 0.72 , 0.87 , 0.65 , 0.20 , 0.71 , N/A ,19
+Augustana University, 0.75 , 0.84 , 0.65 , 0.25 , 0.97 , 0.03 ,10
+Milwaukee School of Engineering, 0.64 , 0.87 , 0.65 , 0.22 , 0.89 , 0.05 ,16
+Milligan College, 0.63 , 0.78 , 0.65 , 0.31 , 0.87 , 0.05 ,9
+Regis University, 0.73 , 0.79 , 0.66 , 0.10 , 0.54 , N/A ,14
+Brenau University, 0.48 , 0.59 , 0.66 , 0.09 , 0.78 , 0.07 ,11
+Bradley University, 0.74 , 0.86 , 0.66 , 0.10 , 0.94 , 0.03 ,12
+University of Illinois at Urbana-Champaign, 0.85 , 0.93 , 0.66 , 0.22 , 0.51 , N/A ,19
+Bethel College-Indiana, 0.64 , 0.78 , 0.66 , 0.14 , 0.84 , 0.09 ,12
+Goshen College, 0.66 , 0.78 , 0.66 , 0.22 , 0.90 , 0.04 ,10
+Michigan State University, 0.77 , 0.92 , 0.66 , 0.23 , 0.51 , N/A ,17
+Minneapolis College of Art and Design, 0.60 , 0.82 , 0.66 , 0.26 , 0.94 , 0.09 ,11
+Albany College of Pharmacy and Health Sciences, 0.69 , 0.88 , 0.66 , 0.13 , 0.86 , 0.01 ,9
+Roberts Wesleyan College, 0.62 , 0.78 , 0.66 , 0.18 , 0.79 , 0.06 ,13
+St Bonaventure University, 0.64 , 0.86 , 0.66 , 0.13 , 0.99 , 0.07 ,11
+Appalachian State University, 0.71 , 0.86 , 0.66 , 0.23 , 0.45 , 0.04 ,16
+The University of Texas at Arlington, 0.46 , 0.71 , 0.66 , 0.26 , 0.54 , N/A ,25
+Champlain College, 0.58 , 0.79 , 0.66 , 0.10 , 0.73 , N/A ,14
+Viterbo University, 0.51 , 0.78 , 0.66 , 0.20 , 0.85 , N/A ,11
+University of Delaware, 0.79 , 0.92 , 0.67 , 0.18 , 0.62 , N/A ,16
+Mercer University, 0.61 , 0.87 , 0.67 , 0.18 , 0.85 , 0.05 ,13
+Drake University, 0.75 , 0.88 , 0.67 , 0.12 , 0.94 , 0.03 ,13
+Luther College, 0.77 , 0.85 , 0.67 , 0.16 , 0.97 , 0.03 ,12
+Mount St Mary's University, 0.69 , 0.75 , 0.67 , 0.08 , 0.95 , 0.04 ,12
+Lesley University, 0.54 , 0.80 , 0.67 , 0.12 , 0.75 , 0.04 ,10
+Wentworth Institute of Technology, 0.67 , 0.84 , 0.67 , 0.14 , 0.86 , N/A ,15
+Minnesota State University-Mankato, 0.49 , 0.74 , 0.67 , 0.24 , 0.48 , 0.06 ,23
+St Catherine University, 0.57 , 0.86 , 0.67 , 0.14 , 0.89 , N/A ,10
+Ithaca College, 0.76 , 0.86 , 0.67 , 0.11 , 0.88 , 0.03 ,11
+Manhattan College, 0.72 , 0.84 , 0.67 , 0.11 , 0.87 , 0.04 ,13
+The New School, 0.65 , 0.81 , 0.67 , 0.19 , 0.83 , 0.06 ,10
+Queens University of Charlotte, 0.53 , 0.74 , 0.67 , 0.13 , 0.86 , 0.07 ,9
+Cedar Crest College, 0.58 , 0.79 , 0.67 , 0.16 , 0.75 , 0.08 ,10
+Texas A & M University-College Station, 0.79 , 0.90 , 0.67 , 0.31 , 0.57 , N/A ,20
+Concordia University-Wisconsin, 0.58 , 0.76 , 0.67 , 0.21 , 0.75 , 0.06 ,12
+University of Redlands, 0.72 , 0.85 , 0.68 , 0.11 , 0.81 , N/A ,14
+Vanguard University of Southern California, 0.56 , 0.78 , 0.68 , 0.25 , 0.81 , N/A ,15
+Moody Bible Institute, 0.69 , 0.86 , 0.68 , 0.48 , 0.80 , N/A ,17
+Buena Vista University, 0.51 , 0.78 , 0.68 , 0.16 , 0.85 , 0.07 ,9
+Georgetown College, 0.57 , 0.72 , 0.68 , 0.13 , 0.90 , 0.05 ,10
+Stephens College, 0.55 , 0.72 , 0.68 , 0.16 , 1.00 , 0.09 ,10
+Clarkson University, 0.72 , 0.88 , 0.68 , 0.11 , 0.96 , 0.03 ,14
+Saint Joseph's College-New York, 0.68 , 0.86 , 0.68 , 0.16 , 0.82 , N/A ,11
+SUNY Maritime College, 0.56 , 0.87 , 0.68 , 0.25 , 0.54 , 0.08 ,17
+Northwest Christian University, 0.53 , 0.69 , 0.68 , 0.23 , 0.91 , N/A ,12
+Lancaster Bible College, 0.73 , 0.79 , 0.68 , 0.42 , 0.90 , N/A ,14
+Slippery Rock University of Pennsylvania, 0.68 , 0.83 , 0.68 , 0.26 , 0.58 , N/A ,22
+Widener University-Main Campus, 0.57 , 0.78 , 0.68 , 0.16 , 0.81 , N/A ,12
+Chamberlain College of Nursing-Illinois, 0.89 , 0.93 , 0.68 , 0.64 , 0.57 , N/A ,22
+Central Michigan University, 0.59 , 0.79 , 0.69 , 0.19 , 0.74 , 0.06 ,20
+Northwood University-Michigan, 0.57 , 0.78 , 0.69 , 0.16 , 0.83 , N/A ,14
+Spring Arbor University, 0.52 , 0.79 , 0.69 , 0.19 , 0.88 , N/A ,11
+Rider University, 0.64 , 0.80 , 0.69 , 0.09 , 0.87 , 0.07 ,12
+East Carolina University, 0.62 , 0.80 , 0.69 , 0.25 , 0.50 , N/A ,18
+Malone University, 0.57 , 0.70 , 0.69 , 0.21 , 0.86 , 0.05 ,12
+Ohio Northern University, 0.69 , 0.86 , 0.69 , 0.19 , 0.75 , 0.03 ,11
+Union University, 0.64 , 0.84 , 0.69 , 0.19 , 0.74 , N/A ,10
+George Mason University, 0.69 , 0.87 , 0.69 , 0.14 , 0.41 , 0.02 ,16
+Maranatha Baptist University, 0.44 , 0.77 , 0.69 , 0.55 , 0.65 , N/A ,13
+Biola University, 0.70 , 0.85 , 0.70 , 0.21 , 0.91 , 0.03 ,15
+Savannah College of Art and Design, 0.67 , 0.85 , 0.70 , 0.21 , 0.88 , 0.09 ,20
+University of Evansville, 0.68 , 0.81 , 0.70 , 0.12 , 0.91 , 0.05 ,12
+Cornell College, 0.68 , 0.82 , 0.70 , 0.14 , 0.98 , 0.04 ,11
+Dordt College, 0.69 , 0.81 , 0.70 , 0.27 , 1.00 , 0.02 ,15
+Kettering University, 0.54 , 0.93 , 0.70 , 0.18 , 0.93 , N/A ,14
+Creighton University, 0.79 , 0.90 , 0.70 , 0.11 , 0.91 , N/A ,11
+Montclair State University, 0.66 , 0.83 , 0.70 , 0.26 , 0.51 , 0.05 ,17
+Saint Vincent College, 0.69 , 0.87 , 0.70 , 0.23 , 0.96 , 0.04 ,12
+Baptist Missionary Association Theological Seminary, 0.50 , N/A , 0.70 , 0.70 , 0.90 , N/A ,3
+Point Loma Nazarene University, 0.75 , 0.84 , 0.71 , 0.21 , 0.82 , N/A ,15
+Loyola University Chicago, 0.74 , 0.86 , 0.71 , 0.10 , 0.83 , 0.05 ,14
+Framingham State University, 0.56 , 0.74 , 0.71 , 0.18 , 0.57 , 0.07 ,15
+Massachusetts College of Art and Design, 0.72 , 0.92 , 0.71 , 0.23 , 0.55 , 0.07 ,9
+Rowan University, 0.67 , 0.86 , 0.71 , 0.18 , 0.43 , N/A ,18
+Elizabethtown College, 0.78 , 0.82 , 0.71 , 0.15 , 0.99 , 0.03 ,12
+Marywood University, 0.70 , 0.83 , 0.71 , 0.16 , 0.97 , 0.06 ,12
+Misericordia University, 0.72 , 0.85 , 0.71 , 0.22 , 0.83 , N/A ,12
+University of Vermont, 0.77 , 0.86 , 0.71 , 0.09 , 0.77 , N/A ,15
+University of Idaho, 0.57 , 0.80 , 0.72 , 0.26 , 0.67 , N/A ,16
+DePaul University, 0.73 , 0.84 , 0.72 , 0.13 , 0.80 , 0.06 ,16
+Clarke University, 0.57 , 0.76 , 0.72 , 0.14 , 0.91 , 0.06 ,9
+Northwestern College, 0.67 , 0.82 , 0.72 , 0.21 , 0.94 , N/A ,13
+Cleary University, 0.52 , 0.65 , 0.72 , 0.46 , 1.00 , 0.07 ,11
+Hope College, 0.76 , 0.88 , 0.72 , 0.18 , 0.87 , 0.03 ,11
+Hamline University, 0.63 , 0.79 , 0.72 , 0.13 , 0.94 , 0.04 ,13
+Maryville University of Saint Louis, 0.71 , 0.89 , 0.72 , 0.26 , 0.68 , N/A ,13
+Adelphi University, 0.67 , 0.84 , 0.72 , 0.09 , 0.88 , 0.05 ,11
+Xavier University, 0.74 , 0.83 , 0.72 , 0.11 , 0.92 , N/A ,11
+Lebanon Valley College, 0.74 , 0.85 , 0.72 , 0.14 , 0.94 , 0.03 ,11
+University of Scranton, 0.80 , 0.88 , 0.72 , 0.09 , 0.88 , N/A ,10
+Shasta Bible College and Graduate School, 0.58 , 1.00 , 0.73 , 0.55 , 0.85 , N/A ,5
+University of Denver, 0.77 , 0.86 , 0.73 , 0.09 , 0.80 , N/A ,11
+Saint Leo University, 0.45 , 0.71 , 0.73 , 0.17 , 0.65 , 0.10 ,15
+Towson University, 0.70 , 0.86 , 0.73 , 0.25 , 0.47 , N/A ,17
+Endicott College, 0.71 , 0.86 , 0.73 , 0.20 , 0.77 , N/A ,14
+University of Detroit Mercy, 0.63 , 0.85 , 0.73 , 0.12 , 0.90 , 0.06 ,10
+William Woods University, 0.52 , 0.75 , 0.73 , 0.21 , 0.90 , N/A ,11
+SUNY College at Geneseo, 0.82 , 0.89 , 0.73 , 0.15 , 0.55 , N/A ,20
+Geneva College, 0.64 , 0.83 , 0.73 , 0.20 , 0.75 , 0.06 ,15
+Salve Regina University, 0.72 , 0.86 , 0.73 , 0.12 , 0.81 , N/A ,13
+Trevecca Nazarene University, 0.51 , 0.77 , 0.73 , 0.31 , 0.77 , 0.06 ,17
+Sam Houston State University, 0.49 , 0.80 , 0.73 , 0.29 , 0.69 , 0.11 ,21
+James Madison University, 0.83 , 0.91 , 0.73 , 0.21 , 0.34 , 0.03 ,16
+Virginia Polytechnic Institute and State University, 0.83 , 0.94 , 0.73 , 0.28 , 0.52 , N/A ,14
+Gonzaga University, 0.83 , 0.95 , 0.73 , 0.20 , 0.96 , N/A ,12
+John Brown University, 0.62 , 0.81 , 0.74 , 0.31 , 0.74 , N/A ,15
+Quinnipiac University, 0.76 , 0.87 , 0.74 , 0.08 , 0.83 , N/A ,12
+Wartburg College, 0.70 , 0.80 , 0.74 , 0.17 , 0.94 , N/A ,11
+Massachusetts Maritime Academy, 0.72 , 0.93 , 0.74 , 0.47 , 0.52 , 0.05 ,16
+Calvin College, 0.74 , 0.86 , 0.74 , 0.25 , 0.95 , 0.03 ,13
+Rockhurst University, 0.71 , 0.85 , 0.74 , 0.12 , 0.68 , 0.06 ,12
+Plymouth State University, 0.58 , 0.76 , 0.74 , 0.20 , 0.61 , 0.05 ,17
+Monmouth University, 0.67 , 0.83 , 0.74 , 0.14 , 0.96 , 0.06 ,14
+Cedarville University, 0.72 , 0.86 , 0.74 , 0.26 , 0.88 , 0.02 ,13
+Muskingum University, 0.52 , 0.74 , 0.74 , 0.18 , 0.83 , 0.06 ,14
+Ohio University-Main Campus, 0.67 , 0.79 , 0.74 , 0.21 , 0.53 , N/A ,18
+University of Oregon, 0.71 , 0.88 , 0.74 , 0.19 , 0.60 , N/A ,19
+Alvernia University, 0.51 , 0.76 , 0.74 , 0.24 , 0.87 , 0.08 ,12
+Saint Francis University, 0.72 , 0.87 , 0.74 , 0.22 , 0.84 , N/A ,14
+University of South Dakota, 0.52 , 0.77 , 0.74 , 0.31 , 0.54 , N/A ,17
+Marquette University, 0.80 , 0.90 , 0.74 , 0.09 , 0.96 , 0.03 ,15
+Michigan Technological University, 0.65 , 0.87 , 0.75 , 0.24 , 0.86 , 0.05 ,12
+Otterbein University, 0.61 , 0.81 , 0.75 , 0.20 , 0.81 , 0.06 ,10
+Oklahoma State University-Main Campus, 0.61 , 0.81 , 0.75 , 0.33 , 0.76 , 0.07 ,20
+Drexel University, 0.68 , 0.84 , 0.75 , 0.09 , 0.80 , N/A ,10
+La Salle University, 0.63 , 0.78 , 0.75 , 0.13 , 0.85 , 0.04 ,12
+Moravian College, 0.69 , 0.80 , 0.75 , 0.19 , 0.91 , 0.04 ,12
+University of Arizona, 0.61 , 0.80 , 0.76 , 0.23 , 0.69 , 0.07 ,22
+Georgia College and State University, 0.60 , 0.86 , 0.76 , 0.37 , 0.79 , 0.05 ,17
+Assumption College, 0.73 , 0.83 , 0.76 , 0.12 , 0.92 , 0.04 ,12
+University of Nebraska-Lincoln, 0.67 , 0.83 , 0.76 , 0.48 , 0.52 , N/A ,21
+Seton Hall University, 0.63 , 0.84 , 0.76 , 0.10 , 0.86 , N/A ,13
+Nazareth College, 0.73 , 0.84 , 0.76 , 0.14 , 0.97 , 0.04 ,9
+The University of Findlay, 0.56 , 0.78 , 0.76 , 0.23 , 0.92 , N/A ,16
+Duquesne University, 0.74 , 0.85 , 0.76 , 0.20 , 0.92 , 0.03 ,13
+Gannon University, 0.65 , 0.84 , 0.76 , 0.15 , 0.79 , 0.06 ,12
+Susquehanna University, 0.71 , 0.89 , 0.76 , 0.13 , 0.98 , N/A ,12
+The University of Tennessee-Knoxville, 0.70 , 0.85 , 0.76 , 0.28 , 0.75 , 0.07 ,17
+Saint Michael's College, 0.76 , 0.87 , 0.76 , 0.10 , 0.98 , N/A ,11
+Pacific Lutheran University, 0.68 , 0.83 , 0.76 , 0.18 , 0.96 , 0.03 ,11
+Northern Arizona University, 0.52 , 0.74 , 0.77 , 0.17 , 0.64 , 0.09 ,18
+University of Illinois at Chicago, 0.60 , 0.81 , 0.77 , 0.22 , 0.65 , N/A ,18
+Olivet Nazarene University, 0.61 , 0.77 , 0.77 , 0.18 , 0.89 , N/A ,14
+Grace College and Theological Seminary, 0.60 , 0.80 , 0.77 , 0.09 , 0.71 , 0.04 ,23
+Louisiana State University and Agricultural & Mechanical College, 0.67 , 0.85 , 0.77 , 0.32 , 0.72 , 0.05 ,23
+Goucher College, 0.69 , 0.82 , 0.77 , 0.11 , 0.90 , 0.03 ,11
+Bay Path University, 0.57 , 0.80 , 0.77 , 0.16 , 0.76 , 0.09 ,12
+Siena Heights University, 0.37 , 0.72 , 0.77 , 0.17 , 0.71 , 0.06 ,12
+Ashland University, 0.58 , 0.75 , 0.77 , 0.19 , 0.59 , 0.05 ,14
+George Fox University, 0.70 , 0.81 , 0.77 , 0.21 , 0.90 , 0.03 ,14
+Juniata College, 0.73 , 0.86 , 0.77 , 0.14 , 0.92 , 0.02 ,13
+Citadel Military College of South Carolina, 0.67 , 0.86 , 0.77 , 0.25 , 0.62 , 0.05 ,13
+John A Gupton College, 0.50 , 0.83 , 0.77 , 0.59 , 0.63 , 0.13 ,15
+Edgewood College, 0.60 , 0.81 , 0.77 , 0.26 , 0.85 , 0.04 ,10
+Auburn University, 0.73 , 0.90 , 0.78 , 0.25 , 0.53 , 0.06 ,19
+Indiana University-Bloomington, 0.77 , 0.89 , 0.78 , 0.23 , 0.59 , 0.05 ,17
+Saint Joseph's College of Maine, 0.58 , 0.86 , 0.78 , 0.20 , 0.56 , N/A ,12
+Concordia College at Moorhead, 0.73 , 0.82 , 0.78 , 0.23 , 0.96 , 0.02 ,11
+Martin Luther College, 0.73 , 0.83 , 0.78 , 0.66 , 0.94 , N/A ,12
+Saint Mary's University of Minnesota, 0.61 , 0.80 , 0.78 , 0.19 , 0.69 , N/A ,18
+University of Missouri-Columbia, 0.69 , 0.87 , 0.78 , 0.28 , 0.60 , N/A ,20
+Concordia University-Nebraska, 0.59 , 0.76 , 0.78 , 0.25 , 0.73 , 0.04 ,14
+University of Oklahoma-Norman Campus, 0.66 , 0.86 , 0.78 , 0.35 , 0.62 , N/A ,18
+Oregon State University, 0.64 , 0.85 , 0.78 , 0.26 , 0.54 , N/A ,18
+DeSales University, 0.70 , 0.78 , 0.78 , 0.16 , 0.79 , 0.04 ,13
+Robert Morris University, 0.58 , 0.85 , 0.78 , 0.13 , 0.80 , N/A ,15
+Roger Williams University, 0.64 , 0.81 , 0.78 , 0.11 , 0.84 , N/A ,14
+University of St Thomas, 0.58 , 0.83 , 0.78 , 0.28 , 0.78 , N/A ,9
+Saint Norbert College, 0.73 , 0.82 , 0.78 , 0.16 , 0.94 , 0.03 ,13
+Catholic University of America, 0.69 , 0.86 , 0.79 , 0.15 , 0.83 , 0.02 ,7
+Merrimack College, 0.71 , 0.83 , 0.79 , 0.11 , 0.89 , 0.04 ,13
+University of Mississippi, 0.61 , 0.87 , 0.79 , 0.22 , 0.68 , 0.08 ,18
+Truman State University, 0.73 , 0.89 , 0.79 , 0.32 , 0.80 , N/A ,16
+University of New Hampshire-Main Campus, 0.79 , 0.85 , 0.79 , 0.17 , 0.58 , N/A ,19
+Franciscan University of Steubenville, 0.79 , 0.86 , 0.79 , 0.26 , 0.89 , N/A ,14
+Pacific University, 0.71 , 0.77 , 0.79 , 0.16 , 0.93 , 0.03 ,11
+Immaculata University, 0.70 , 0.83 , 0.79 , 0.12 , 0.59 , 0.06 ,9
+Messiah College, 0.77 , 0.88 , 0.79 , 0.28 , 0.97 , N/A ,12
+Longwood University, 0.66 , 0.80 , 0.79 , 0.22 , 0.48 , 0.05 ,16
+Virginia Commonwealth University, 0.62 , 0.86 , 0.79 , 0.27 , 0.55 , N/A ,17
+University of Colorado Boulder, 0.71 , 0.86 , 0.80 , 0.20 , 0.43 , 0.04 ,18
+Saint Mary's College, 0.79 , 0.90 , 0.80 , 0.24 , 0.94 , N/A ,10
+University of Northern Iowa, 0.68 , 0.80 , 0.80 , 0.36 , 0.55 , N/A ,17
+McDaniel College, 0.70 , 0.75 , 0.80 , 0.15 , 0.98 , 0.04 ,11
+Westfield State University, 0.63 , 0.79 , 0.80 , 0.25 , 0.56 , N/A ,17
+Yeshiva University, 0.88 , 0.94 , 0.80 , 0.50 , 0.82 , N/A ,7
+Walsh University, 0.60 , 0.78 , 0.80 , 0.30 , 0.85 , N/A ,13
+Belmont University, 0.69 , 0.83 , 0.80 , 0.23 , 0.65 , 0.03 ,14
+Washington State University, 0.64 , 0.78 , 0.80 , 0.24 , 0.61 , N/A ,15
+University of Wisconsin-Whitewater, 0.60 , 0.81 , 0.80 , 0.36 , 0.43 , N/A ,22
+University of Wisconsin-La Crosse, 0.68 , 0.85 , 0.80 , 0.34 , 0.43 , N/A ,18
+Azusa Pacific University, 0.68 , 0.88 , 0.81 , 0.20 , 0.92 , 0.04 ,11
+Colorado State University-Fort Collins, 0.67 , 0.87 , 0.81 , 0.26 , 0.50 , 0.04 ,18
+University of Iowa, 0.72 , 0.85 , 0.81 , 0.20 , 0.58 , N/A ,15
+Grace Bible College, 0.60 , 0.56 , 0.81 , 0.44 , 0.83 , 0.03 ,13
+Grand Valley State University, 0.67 , 0.84 , 0.81 , 0.24 , 0.65 , 0.04 ,17
+Carlow University, 0.50 , 0.77 , 0.81 , 0.24 , 0.87 , 0.05 ,11
+Dakota State University, 0.38 , 0.74 , 0.81 , 0.38 , 0.39 , 0.09 ,18
+University of Utah, 0.64 , 0.89 , 0.81 , 0.28 , 0.51 , N/A ,16
+Chaminade University of Honolulu, 0.47 , 0.74 , 0.82 , 0.28 , 0.81 , 0.09 ,11
+Valparaiso University, 0.67 , 0.82 , 0.82 , 0.11 , 0.91 , N/A ,13
+Baker University, 0.60 , 0.77 , 0.82 , 0.21 , 0.73 , 0.06 ,12
+University of North Dakota, 0.54 , 0.81 , 0.82 , 0.39 , 0.51 , N/A ,21
+John Carroll University, 0.73 , 0.85 , 0.82 , 0.19 , 0.97 , 0.04 ,13
+Mount Carmel College of Nursing, 0.72 , 0.85 , 0.82 , 0.54 , 0.50 , N/A ,13
+Saint Joseph's University, 0.79 , 0.90 , 0.82 , 0.14 , 0.90 , N/A ,13
+Wilkes University, 0.59 , 0.77 , 0.82 , 0.18 , 0.84 , N/A ,15
+Bob Jones University, 0.62 , 0.80 , 0.82 , 0.55 , 0.71 , 0.02 ,12
+Shenandoah University, 0.55 , 0.77 , 0.82 , 0.22 , 0.59 , 0.07 ,10
+Central Washington University, 0.52 , 0.79 , 0.82 , 0.34 , 0.56 , 0.07 ,20
+Seattle Pacific University, 0.71 , 0.87 , 0.82 , 0.13 , 0.93 , 0.03 ,15
+Western Washington University, 0.71 , 0.82 , 0.82 , 0.28 , 0.48 , N/A ,18
+Utica College, 0.42 , 0.70 , 0.83 , 0.13 , 0.76 , 0.08 ,11
+University of Mary Washington, 0.70 , 0.82 , 0.83 , 0.18 , 0.41 , 0.02 ,14
+Old Dominion University, 0.53 , 0.82 , 0.83 , 0.31 , 0.55 , N/A ,19
+Huntington University, 0.66 , 0.79 , 0.84 , 0.22 , 0.85 , 0.04 ,10
+University of St Thomas, 0.76 , 0.89 , 0.84 , 0.26 , 0.91 , N/A ,14
+Linfield College-McMinnville Campus, 0.63 , 0.86 , 0.84 , 0.20 , 0.96 , 0.03 ,11
+Regent University, 0.49 , 0.80 , 0.84 , 0.25 , 0.84 , N/A ,28
+Taylor University, 0.77 , 0.87 , 0.85 , 0.30 , 0.84 , N/A ,12
+University of New England, 0.65 , 0.75 , 0.85 , 0.14 , 0.80 , N/A ,13
+University of Nebraska at Kearney, 0.56 , 0.80 , 0.85 , 0.37 , 0.71 , N/A ,14
+Niagara University, 0.63 , 0.88 , 0.85 , 0.22 , 0.85 , 0.08 ,13
+Kent State University at Kent, 0.56 , 0.81 , 0.85 , 0.27 , 0.68 , 0.12 ,21
+California University of Pennsylvania, 0.50 , 0.77 , 0.85 , 0.26 , 0.62 , 0.08 ,21
+University of Wisconsin-Eau Claire, 0.65 , 0.80 , 0.85 , 0.39 , 0.46 , N/A ,21
+University of Wisconsin-Green Bay, 0.46 , 0.75 , 0.85 , 0.37 , 0.47 , N/A ,23
+Fort Hays State University, 0.43 , 0.70 , 0.86 , 0.41 , 0.44 , 0.07 ,16
+Bryan College of Health Sciences, 0.79 , 0.86 , 0.86 , 0.67 , 0.56 , 0.03 ,9
+Valley City State University, 0.41 , 0.71 , 0.86 , 0.52 , 0.56 , N/A ,11
+University of Cincinnati-Main Campus, 0.62 , 0.88 , 0.86 , 0.29 , 0.58 , N/A ,18
+Texas Woman's University, 0.41 , 0.76 , 0.86 , 0.24 , 0.67 , 0.08 ,18
+West Virginia University, 0.57 , 0.79 , 0.86 , 0.31 , 0.64 , 0.09 ,20
+Iowa State University, 0.71 , 0.87 , 0.87 , 0.33 , 0.67 , 0.05 ,19
+MCPHS University, 0.72 , 0.84 , 0.87 , 0.16 , 0.87 , N/A ,16
+University of Northwestern-St Paul, 0.66 , 0.82 , 0.87 , 0.33 , 0.59 , N/A ,18
+Canisius College, 0.70 , 0.83 , 0.87 , 0.14 , 0.92 , 0.06 ,11
+Illinois State University, 0.73 , 0.82 , 0.88 , 0.30 , 0.50 , 0.04 ,18
+Missouri University of Science and Technology, 0.65 , 0.87 , 0.88 , 0.41 , 0.77 , 0.05 ,19
+University of Kentucky, 0.63 , 0.83 , 0.89 , 0.28 , 0.78 , 0.06 ,17
+Columbia College, 0.50 , 0.76 , 0.89 , 0.36 , 0.81 , 0.09 ,13
+Loyola University New Orleans, 0.66 , 0.77 , 0.90 , 0.19 , 0.92 , 0.05 ,12
+Southern New Hampshire University, 0.58 , 0.61 , 0.92 , 0.21 , 0.52 , 0.08 ,30
+South Dakota State University, 0.54 , 0.76 , 0.92 , 0.44 , 0.58 , 0.05 ,17
+Wisconsin Lutheran College, 0.62 , 0.75 , 0.92 , 0.38 , 0.89 , N/A ,12
+Samford University, 0.74 , 0.89 , 0.93 , 0.26 , 0.88 , N/A ,12
+Gordon College, 0.69 , 0.85 , 0.93 , 0.24 , 0.98 , 0.02 ,13
+University of Wisconsin-Stout, 0.57 , 0.76 , 0.93 , 0.49 , 0.44 , N/A ,20
+North Dakota State University-Main Campus, 0.54 , 0.78 , 0.94 , 0.48 , 0.56 , 0.03 ,18
+University of Wisconsin-Platteville, 0.54 , 0.75 , 0.94 , 0.46 , 0.47 , N/A ,22
+The Master's College and Seminary, 0.69 , 0.85 , 0.95 , 0.41 , 0.82 , N/A ,10
+Indiana Wesleyan University-Marion, 0.60 , 0.82 , 0.95 , 0.45 , 0.57 , N/A ,15
+Kansas State University, 0.62 , 0.83 , 0.95 , 0.39 , 0.57 , 0.06 ,19
+Bethel University, 0.74 , 0.84 , 0.95 , 0.40 , 0.89 , 0.03 ,12
+Houghton College, 0.73 , 0.84 , 0.95 , 0.35 , 0.97 , 0.04 ,12
+University of Mary, 0.60 , 0.75 , 0.96 , 0.46 , 0.86 , N/A ,13
+Clarion University of Pennsylvania, 0.49 , 0.73 , 0.96 , 0.43 , 0.62 , 0.08 ,18
+Westminster College, 0.62 , 0.82 , 0.96 , 0.23 , 0.89 , N/A ,9
+University of Wyoming, 0.55 , 0.77 , 0.96 , 0.36 , 0.71 , N/A ,14
+Capitol Technology University, 0.35 , 0.87 , 0.97 , 0.23 , 0.71 , 0.07 ,12
+Fontbonne University, 0.54 , 0.79 , 0.97 , 0.36 , 0.76 , 0.10 ,11
+Utah State University, 0.49 , 0.71 , 0.97 , 0.29 , 0.56 , 0.06 ,22
+Harding University, 0.64 , 0.85 , 0.99 , 0.66 , 0.87 , 0.05 ,16
+Luther Rice University & Seminary, 1.00 , 1.00 , 1.00 , 1.00 , 0.65 , N/A ,23
+Brigham Young University-Idaho, 0.61 , 0.68 , 1.00 , 0.47 , 0.60 , 0.03 ,25
+Midwives College of Utah, N/A , 1.00 , 1.00 , 1.00 , 0.30 , N/A ,5
+Alexandria Technical & Community College, 0.64 , 0.71 , N/A , N/A , 0.53 , 0.12 ,24
+American Medical Academy, 0.75 , 0.83 , N/A , N/A , 0.18 , N/A ,6
+American Sentinel University, N/A , 1.00 , N/A , N/A , 0.22 , N/A ,20
+Apex School of Theology, 0.95 , 0.97 , N/A , N/A , 0.99 , 0.11 ,17
+Baptist Health System School of Health Professions, 0.90 , N/A , N/A , N/A , 0.83 , 0.04 ,14
+Bethesda University, 0.77 , 0.68 , N/A , N/A , 0.58 , 0.02 ,10
+Clear Creek Baptist Bible College, 0.46 , 0.80 , N/A , N/A , 0.90 , N/A ,12
+Colorado Christian University, 0.47 , 0.79 , N/A , N/A , 0.54 , 0.06 ,15
+Columbia College, 0.62 , 0.81 , N/A , N/A , 0.63 , N/A ,10
+Faith Evangelical College & Seminary, 0.80 , 0.67 , N/A , N/A , 0.76 , 0.07 ,15
+Hobe Sound Bible College, 0.56 , 0.75 , N/A , N/A , 0.55 , 0.11 ,12
+Holy Apostles College and Seminary, 0.60 , 1.00 , N/A , N/A , 0.22 , N/A ,6
+International Baptist College and Seminary, 0.60 , 0.79 , N/A , N/A , 0.91 , 0.02 ,4
+Keiser University-Ft Lauderdale, 0.68 , 0.89 , N/A , N/A , 0.93 , 0.18 ,12
+Laurus College, 0.88 , 0.70 , N/A , N/A , 0.74 , 0.20 ,9
+Mountain State College, 0.92 , 0.83 , N/A , N/A , 0.06 , 0.18 ,17
+Nazarene Bible College, 0.40 , 1.00 , N/A , N/A , 0.49 , 0.13 ,9
+North Central Kansas Technical College, 0.79 , 0.78 , N/A , N/A , 0.57 , 0.14 ,10
+North Florida Community College, 0.52 , 0.70 , N/A , N/A , 0.60 , N/A ,17
+Northwest Iowa Community College, 0.56 , 0.75 , N/A , N/A , 0.30 , 0.11 ,12
+Pamlico Community College, 0.72 , 0.76 , N/A , N/A , 0.39 , N/A ,9
+Provo College, 0.71 , 1.00 , N/A , N/A , 0.74 , 0.18 ,12
+Sessions College for Professional Design, 0.60 , 0.90 , N/A , N/A , 0.53 , N/A ,15
+Southeastern Baptist College, 0.80 , 0.40 , N/A , N/A , 0.21 , N/A ,6
+Touro University Worldwide, N/A , 1.00 , N/A , N/A , 0.76 , 0.04 ,13
+Unitek College, N/A , 1.00 , N/A , N/A , 0.20 , N/A ,16
+University of Western States, 0.88 , N/A , N/A , N/A , 0.56 , N/A ,16
+Virginia Baptist College, 1.00 , 0.25 , N/A , N/A , 0.38 , N/A ,5
+West Virginia Junior College-Morgantown, 0.53 , 0.69 , N/A , N/A , 0.88 , N/A ,25
